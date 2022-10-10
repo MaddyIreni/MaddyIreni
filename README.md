@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaddyIreni
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate with teachers to learn coding
 - 📫 How to reach me 
 madhavi.ireni@gmail.com
